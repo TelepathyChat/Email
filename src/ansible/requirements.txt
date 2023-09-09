@@ -1,0 +1,3 @@
+collections:
+- UnicornCloud/DynamicDNS
+  source: https://github.com/UnicornCloud/DynamicDNS
